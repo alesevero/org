@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6CF24927-24F1-42AC-AB29-932DE35DB12C
+:END:
+#+title: How to Take Smart Notes
+Title: How to Take Smart Notes
+Subtitle: 
+Author: [[id:81167A1F-9398-42BC-83FB-7309A8D430D2][Sonke Ahrens]]

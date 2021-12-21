@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8C117325-7B20-4777-9CD5-A7E84061CD73
+:END:
+#+title: 2021-12-20
+* How to make good questions? [[id:3D24C470-4E9E-4B31-ACD6-0374A8437331][question]]
+	Having the anwsers, how to make good notes on them? [[id:6CF24927-24F1-42AC-AB29-932DE35DB12C][How to Take Smart Notes]]
+
+* How to develop [[id:ED9F55F9-0958-48EE-B66E-3735E2A9509F][Critical Thinking]] [[id:3D24C470-4E9E-4B31-ACD6-0374A8437331][question]]
+	Somewhat related to curiosity questions? [[id:FF298500-499A-4B41-83AD-E0CD67BA1169][Curiosity-Driven Research]]
+
+* The Integration of the Shadow
+	* Shadow is a term coined by [[id:9EB3A665-F78A-4C6A-8F77-5A66BF9C93E8][Carl Jung]]
+		* It describes the repressed or denied parts of the Self.
+
+		Shadow integration is a process of bringing the hidden parts of the Self into consciousness.
+		Recognizing/realizing/identifying shadow qualities in yourself is a very important first step towards integrating it.
+		Shadow does not necessarily equal evil
+
+* [[id:6CF24927-24F1-42AC-AB29-932DE35DB12C][How to Take Smart Notes]]
+	Writing is the best facilitator for thinking, reading, learning, understanding and generating ideas we have.
+	Good tools do not add features and more options to what we already have, but help reduce distractions from the main work, which here is *thinking.*
+

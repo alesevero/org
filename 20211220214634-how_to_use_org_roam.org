@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0CA4A469-363E-4191-A661-DFAC524DD944
+:END:
+#+title: How to Use Org-Roam
+
+* C-c n i to link between nodes
+	If the node doesn't exist yet, org-roam creates it.
+	

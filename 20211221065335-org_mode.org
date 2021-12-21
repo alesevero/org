@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       FD0F930D-E893-49E9-BB61-334507D325E4
+:END:
+#+title: Org Mode
+
+* Why Emacs Org Mode?
+	You might benefit from using Emacs Org Mode if you want to:
+	- Authoring/publishing documents, such as:
+		- books
+		- articles
+		- pages
+	- Taking extensive, easy-to-navigate notes for a course or for personal use
+	- Research: create and share reproducible results
+
+* How can Emacs Org Mode help? [Examples]
+** What is Emacs, and what is Org Mode?
+	 Emacs is a text editor. Emacs is extensible using the =lisp= programming language.
+
+	 Org Mode allows *literate programming*. Here, we write documents
+	 with very rich content, including rich text, images and executable
+	 code blocks.
+
+** Examples
+*** Mathematical typesetting
+		Here is an inline LaTeX math equation: \(F = ma\)
+
+		Here is a display equation:
+		\begin{equation}
+    i \hbar \frac{\partial}{\partial t} \Psi = \mathcal{H} \Psi
+		\end{equation}
+
+*** Executable code blocks
+**** Basic code block
+		#+BEGIN_SRC clojure :results output
+    (println "hello, world)
+		#+END_SRC
+
+**** Code Block - Generates Graphics
+
+		 #+BEGIN_SRC python :results output
+     import numpy as np
+     import math
+     import matplotlib.pyplot as plt
+
+     x = np.linespace(0, 1, 10)
+     y = np.sin(2*math.pi*x)
+
+     plt.plot(x, y)
+     #+END_SRC
+
+*** Tables
+		| Index | Col A | Second Col |
+		|-------+-------+------------|
+		|     1 | XYZ   |         25 |
+		|       |       |            |
+
+*** Markup
+		It can do *bold*, _underline_, /italics/, or +strikethrough+ text.
+		It can handle [[https://google.com][hyperlinks]]
+
